@@ -12,6 +12,7 @@ To overcome this, after having deployed the new flows, export All flows as *flow
 
 ## 1. Deploying Node-RED to Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hybuild-project/nodered-heroku)
+Valério:[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ValerioMedeiros/nodered-heroku)
 
 ## 2. Set up GitHub repo and Heroku app
 * Fork this GitHub repo.
